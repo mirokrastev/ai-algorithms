@@ -1,2 +1,2 @@
 # ai-algorithms
-DS, AI and some day DL stuff.
+DS, AI and someday DL stuff.
